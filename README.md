@@ -1,7 +1,7 @@
 functional-test-test
 ====================
 
-An experiment
+An experiment in functional testing.
 
 Installation
 ------------
@@ -11,7 +11,7 @@ Clone this repo.
 Usage
 -----
 
-    node scratch.js
+    make test
 
 Tests
 -----
